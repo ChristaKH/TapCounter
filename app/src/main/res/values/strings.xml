@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tap Counter</string>
+    <string name="StartingValue">0</string>
+    <string name="TapButtonText">Tap Me!</string>
+    <string name="CountTap">countTap</string>
+    <string name="TapToast">"I've been tapped!"</string>
+    <string name="Counter">Counter</string>
+</resources>
